@@ -12,8 +12,7 @@ Extremely simple JSON-LD generator.
 
 ## Installation
 
-- [JSON-LD Generator on Packagist](https://packagist.org/packages/torann/json-ld)
-- [JSON-LD Generator on GitHub](https://github.com/Torann/json-ld)
+- [JSON-LD Generator on GitHub](https://github.com/bingogg14/json-ld)
 
 From the command line run
 
